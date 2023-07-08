@@ -1,0 +1,4 @@
+What is the need/problem: 
+-I want an app that can help me choose what I want to eat. 
+-I want it to be able to propose meals that contains articles in special.
+-I need a calandar that is easy to read and adjust
